@@ -1,4 +1,4 @@
-package eu.bioimage.imagej.plugins.contractilityanalyzer;
+package hu.elte.imagej.plugins.contractilityanalyzer;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package eu.bioimage.imagej.plugins.contractilityanalyzer;
+package hu.elte.imagej.plugins.contractilityanalyzer;
 
 import ij.io.OpenDialog;
 import ij.io.SaveDialog;
