@@ -22,6 +22,6 @@
  		 	 	      <attribute name="Built-By" value="${user.name}"/>
  		</manifest>
  	</jar>
-    <copy file="ContractilityAnalyzer_.jar" toDir="D:/munka/java/workspace/IJ/plugins" />
+    <copy file="ContractilityAnalyzer_.jar" toDir="E:\projects\java\WorkSpace\IJ\plugins" />
   </target>
 </project>
